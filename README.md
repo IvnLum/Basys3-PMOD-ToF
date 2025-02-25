@@ -1,4 +1,4 @@
-# Digilent PMOD ToF I2C VHDL Bare Minimal Controller
+# Digilent PMOD ToF I2C VHDL Minimal Controller
 
 Title says it all, based on Digilent' s [[ZyboZ7-20-PmodToF-Demo](https://github.com/Digilent/ZyboZ7-20-PmodToF-Demo)] C implementation for ISL29501
 <p align="center">
