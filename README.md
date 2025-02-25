@@ -2,7 +2,7 @@
 
 Title says it all, based on Digilent' s [[ZyboZ7-20-PmodToF-Demo](https://github.com/Digilent/ZyboZ7-20-PmodToF-Demo)] C implementation for ISL29501
 <p align="center">
-  <img height=300 src="https://raw.githubusercontent.com/IvnLum/Basys3_PMOD_ToF/main/anim/ToF.gif" alt="animated" />
+  <img height=300 src="https://raw.githubusercontent.com/IvnLum/Basys3-PMOD-ToF/main/anim/ToF.gif" alt="animated" />
 </p>
 <br/>
 
