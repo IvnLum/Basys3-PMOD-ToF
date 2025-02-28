@@ -6,7 +6,7 @@ Title says it all, based on Digilent' s [[ZyboZ7-20-PmodToF-Demo](https://github
 </p>
 <br/>
 
-> In the GIF Basys 3 values are shown in milimiters, this example setup is located pointing from my bed to the roof hence the max distance is 2.8-3.0m!
+> In the GIF Basys 3 values are shown in milimeters, this example setup is located pointing from my bed to the roof hence the max distance is 2.8-3.0m!
 
 ## You need to manually set register calibration values for your ToF Module!
 Since it only implements READ operation, there is no actual calibration . You need to implement it or just obtain Calibration data from a complete controller implementation
